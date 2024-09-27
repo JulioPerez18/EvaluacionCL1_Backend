@@ -1,0 +1,10 @@
+1;ASR-121;KIA;Sportage;5;26000;Negro
+2;FAD-124;Toyota;Rav;5;26000;Negro
+3;TYR-878;Honda;Civic;5;22000;Blanco
+4;WXP-567;Ford;Escape;5;28000;Rojo
+5;PLO-342;Chevrolet;Equinox;5;25000;Azul
+6;HJK-675;Nissan;Rogue;5;24000;Gris
+7;BVC-987;Hyundai;Tucson;5;27000;Plateado
+8;MNB-123;Mazda;CX-5;5;29000;Verde
+9;ZXC-456;Volkswagen;Tiguan;5;31000;Blanco
+10;QWE-789;Subaru;Forester;5;26500;Azul
